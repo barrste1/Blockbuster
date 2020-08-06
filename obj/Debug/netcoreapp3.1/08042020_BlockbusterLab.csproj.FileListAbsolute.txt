@@ -1,0 +1,13 @@
+C:\Users\Stephen Barr (Work)\source\repos\08042020_BlockbusterLab\bin\Debug\netcoreapp3.1\08042020_BlockbusterLab.exe
+C:\Users\Stephen Barr (Work)\source\repos\08042020_BlockbusterLab\bin\Debug\netcoreapp3.1\08042020_BlockbusterLab.deps.json
+C:\Users\Stephen Barr (Work)\source\repos\08042020_BlockbusterLab\bin\Debug\netcoreapp3.1\08042020_BlockbusterLab.runtimeconfig.json
+C:\Users\Stephen Barr (Work)\source\repos\08042020_BlockbusterLab\bin\Debug\netcoreapp3.1\08042020_BlockbusterLab.runtimeconfig.dev.json
+C:\Users\Stephen Barr (Work)\source\repos\08042020_BlockbusterLab\bin\Debug\netcoreapp3.1\08042020_BlockbusterLab.dll
+C:\Users\Stephen Barr (Work)\source\repos\08042020_BlockbusterLab\bin\Debug\netcoreapp3.1\08042020_BlockbusterLab.pdb
+C:\Users\Stephen Barr (Work)\source\repos\08042020_BlockbusterLab\obj\Debug\netcoreapp3.1\08042020_BlockbusterLab.csprojAssemblyReference.cache
+C:\Users\Stephen Barr (Work)\source\repos\08042020_BlockbusterLab\obj\Debug\netcoreapp3.1\08042020_BlockbusterLab.AssemblyInfoInputs.cache
+C:\Users\Stephen Barr (Work)\source\repos\08042020_BlockbusterLab\obj\Debug\netcoreapp3.1\08042020_BlockbusterLab.AssemblyInfo.cs
+C:\Users\Stephen Barr (Work)\source\repos\08042020_BlockbusterLab\obj\Debug\netcoreapp3.1\08042020_BlockbusterLab.csproj.CoreCompileInputs.cache
+C:\Users\Stephen Barr (Work)\source\repos\08042020_BlockbusterLab\obj\Debug\netcoreapp3.1\08042020_BlockbusterLab.dll
+C:\Users\Stephen Barr (Work)\source\repos\08042020_BlockbusterLab\obj\Debug\netcoreapp3.1\08042020_BlockbusterLab.pdb
+C:\Users\Stephen Barr (Work)\source\repos\08042020_BlockbusterLab\obj\Debug\netcoreapp3.1\08042020_BlockbusterLab.genruntimeconfig.cache

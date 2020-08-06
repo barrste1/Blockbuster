@@ -39,6 +39,8 @@ namespace _08042020_BlockbusterLab
                         filmSelection[0].Play();
                     }
 
+                    filmSelection.Clear();
+
                     Console.Clear();
 
                     if(ValidateYesNo("Would you like to watch another movie?"))
